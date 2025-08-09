@@ -1,0 +1,3 @@
+[submodule "amm-token2022"]
+	path = amm-token2022
+	url = https://github.com/rishavmehra/amm-token2022
