@@ -178,7 +178,7 @@ export const Navbar = () => {
         <Button asChild size="sm" variant="ghost" aria-label="View on GitHub">
           <Link
             aria-label="View on GitHub"
-            href="https://github.com/rishavmehra"
+            href="https://github.com/rishavmehra/token-2022-dex"
             target="_blank"
           >
             <Github className="size-5" />
